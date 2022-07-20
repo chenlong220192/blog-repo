@@ -1,0 +1,32 @@
+- Java基础
+  - ![《阿里巴巴开发手册》](/images/bee/books/阿里巴巴开发手册.png "阿里巴巴开发手册")
+  - [《码出高效Java开发手册》]()
+  - [《Java核心技术卷1》]()
+  - [《深入理解Java虚拟机（第2版）》]()
+  - [《深入理解Java虚拟机（第3版）》]()
+  - [《Java并发编程的艺术》]()
+  - [《Java并发编程实战》]()
+  - [《Java性能权威指南》]()
+  - [《Effective Java（中文版）》]()
+- Mysql
+  - [《高性能Mysql》]()
+- Redis
+  - [《Redis设计与实现》]()
+  - [《Redis实战》]()
+- Netty
+  - [《Netty实战》]()
+- Linux
+  - [《鸟哥的Linux私房菜》]()
+- Dubbo
+  - [《深入理解Apache Dubbo与实战》]()
+- 消息队列
+  - [《RocketMQ实战与原理解析》]()
+  - [《Kafka The Definitive Guide》]()
+- Zookeeper
+  - [《Zookeeper》]()
+  - [《从Paxos到Zookeeper》]()
+- Nginx
+  - [《深入理解Nginx（第2版）》]()
+- Tomcat
+- Jenkins
+- 架构
